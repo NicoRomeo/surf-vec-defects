@@ -1,2 +1,2 @@
 # surf-vec-defects
-Locates topological defects in tagent vector fields to a surface
+Locates topological defects in tangent vector fields to a surface
