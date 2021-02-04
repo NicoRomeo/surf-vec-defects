@@ -10,3 +10,4 @@ the function DefectTrackSurf takes 2 mandatory arguments and a third optional:
 - the distance dr between nearest neighbors points. If not provided, dr defaults to sin(2pi/sqrt(# grid points)), the approximate spacing between points on a regular grid on the sphere.
 
 
+A full technical documentation is available at https://sites.google.com/view/nromeo/teaching 
