@@ -11,4 +11,6 @@ the function DefectTrackSurf takes 2 mandatory arguments and a third optional:
 
 The algorithm is detailed [here](https://drive.google.com/file/d/1s_5GXzcphbt8bVqCTsxOaLMuaihzjxvJ/view?usp=sharing).
 
+This work has been developed with valuable inputs from Alexander Mietke.
+
 [![View surf-vec-defects on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88612-surf-vec-defects)
